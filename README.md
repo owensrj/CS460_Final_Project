@@ -29,7 +29,7 @@ https://www.eia.gov/opendata/register.php
 After receiving your key, set it as an environment variable named:
 ```bash
 EIA_API_KEY
-
+```bash
 if using macOS or Linux, you can set it temporarily in Terminal with:
 export EIA_API_KEY="your_api_key_here"
 
